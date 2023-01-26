@@ -1,0 +1,30 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #d9d9d9;
+    color: #000;
+}
+
+#headerTitle { 
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#headerLine {
+    position: absolute;
+    padding: 1px;
+    height: 1px;
+    width: 215px;
+    border-radius: 50px;
+    top: 55px;
+    left: 20px;
+    background-color: #000;
+}
+
+img {
+    padding: 20px;
+    height: 35px;
+    width: 35px;
+}
