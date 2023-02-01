@@ -1,0 +1,35 @@
+#ShangaiTower {
+    display: flex;
+    background-color: #F3F3F3;
+}
+
+
+.lineRight {
+    margin-left: 88%;
+}
+
+@media (max-width: 1400px) {
+    .lineRight {
+        width: 120px;
+        margin-left: 80%;
+    }
+}
+
+#imgshangaiTower {
+    background-image: url('../../assets/shanghai.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    width: 100%;
+    height: 700px;
+    padding: 0px;
+    margin: 50px 100px 40px 10px;
+    border-radius: 20px;
+}
+
+.textRight {
+    text-align: right;
+    margin: 140px 25px 30px 85px;
+}
+

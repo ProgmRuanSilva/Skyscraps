@@ -1,0 +1,17 @@
+#PingAnInternacional {
+    display: flex;
+    background-color: #F3F3F3;
+}
+
+#imgPingAnInternacional {
+    background-image: url('../../assets/pingAn.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 600px;
+    width: 1500px;
+    height: 700px;
+    padding: 0px;
+    margin: 50px 100px 40px 10px;
+    border-radius: 20px;
+}

@@ -1,0 +1,15 @@
+#AbrajAlBait {
+    display: flex;
+}
+
+#imgAbrajAlBait {
+    background-image: url('../../assets/abraj.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -75%;
+    width: 90%;
+    height: 700px;
+    margin: 40px 20px 50px 90px;
+    border-radius: 20px;
+}

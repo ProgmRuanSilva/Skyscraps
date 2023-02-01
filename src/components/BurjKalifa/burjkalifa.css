@@ -1,0 +1,44 @@
+#burjKhalifa {
+    display: flex;
+}
+
+#imgBurjKhalifa {
+    background-image: url('../../assets/burj.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -150px;
+    width: 90%;
+    height: 700px;
+    padding: 0px;
+    margin: 40px 20px 50px 90px;
+    border-radius: 20px;
+}
+
+.text {
+    margin: 140px 100px 0px 10px;
+}
+
+.titleContent {
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 400;
+}
+
+hr {
+    width: 100px;
+}
+
+.description {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.content {
+    color: #303030;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 100;
+}
