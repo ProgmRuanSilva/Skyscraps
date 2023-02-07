@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Skyscraps/static/css/main.e504f807.css",
+    "main.js": "/Skyscraps/static/js/main.f5b984dd.js",
+    "static/js/787.2cedb6f2.chunk.js": "/Skyscraps/static/js/787.2cedb6f2.chunk.js",
+    "static/media/pingAn.jpg": "/Skyscraps/static/media/pingAn.2404c0f8cac725dc1305.jpg",
+    "static/media/abraj.jpg": "/Skyscraps/static/media/abraj.52375add35f926e01bac.jpg",
+    "static/media/burj.jpg": "/Skyscraps/static/media/burj.69445e860ea783dbabe7.jpg",
+    "static/media/lottle.jpg": "/Skyscraps/static/media/lottle.35589eb2e9c7cb017086.jpg",
+    "static/media/shanghai.jpg": "/Skyscraps/static/media/shanghai.aaf0f66d9049611281fb.jpg",
+    "index.html": "/Skyscraps/index.html",
+    "main.e504f807.css.map": "/Skyscraps/static/css/main.e504f807.css.map",
+    "main.f5b984dd.js.map": "/Skyscraps/static/js/main.f5b984dd.js.map",
+    "787.2cedb6f2.chunk.js.map": "/Skyscraps/static/js/787.2cedb6f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e504f807.css",
+    "static/js/main.f5b984dd.js"
+  ]
+}
