@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<h1 align="center">Tallest Skyscraps</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot from 2023-02-07 09-37-38](https://user-images.githubusercontent.com/108758883/217247266-e3bfc91d-87cd-424d-a4bd-a93995ec92b4.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+### Concept
 
-### `npm start`
+[Figma-Project](https://www.figma.com/file/MvfSpoANMmwCNhPRXTg7I4/Skyscraps?node-id=0%3A1&t=amJdBd36R7b5Mlnt-1)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+My first project.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ✒️ Minimalist
+- ✨ Magic ✨
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Authorship
+- Scrolling Page
+- Height and Floors of all buildings
 
-### `npm run build`
+## Teachings
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Used in Stack:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" width="40" /> Figma<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/>
+  React<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
+  Html<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40"/>
+  Css<br>
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+Requires:
+- [React.js](https://react.org/)  to run.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install the dependencies and devDependencies and start the server.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+cd Skyscraps
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If want run in production ...
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+cd Skyscraps
+npm i
+npm run build
+serve -g build
+```
+## More About
 
-## Learn More
+- The inspiration came when I looked at the pages and saw that the images were fixed. so why not with Skyscraps?
+- In this projects i challenged myself to put all my knowlegde.
+- Is the frist time when i used [Figma](https://www.figma.com/community).
+  
+## Images
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot from 2023-02-07 09-39-04](https://user-images.githubusercontent.com/108758883/217247243-4d2338a1-160a-407c-a489-6901db23e180.png)
+![Screenshot from 2023-02-07 09-38-34](https://user-images.githubusercontent.com/108758883/217247253-0a713ab5-3236-44e8-9fce-fd088babc009.png)
+![Screenshot from 2023-02-07 09-38-21](https://user-images.githubusercontent.com/108758883/217247256-305cec89-16de-4c16-b652-4042e6005644.png)
+![Screenshot from 2023-02-07 09-38-05](https://user-images.githubusercontent.com/108758883/217247263-625b22f0-13dd-495a-b6e9-9ab952d1151d.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+MIT
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Free Software, Hell Yeah!**
